@@ -90,10 +90,10 @@ class About extends Component {
             <Col lg={true}>
               <h1 className="mt-5 header-text">a little about me</h1>
               <p className="pt-3 main-text">
-                hello! my name is ROBERT. I hail from Tartu, Estonia, but grew
-                up in Philly. I'm a senior at the University of Pennsylvania and
-                a proud alumnus of Central High School (275). I'm a candidate
-                for a BSE degree in computer science and a minor in mathematics.
+                hello! my name is Aavo. I hail from Tartu, Estonia, but grew up
+                in Philly. I'm a senior at the University of Pennsylvania and a
+                proud alumnus of Central High School (275). I'm a candidate for
+                a BSE degree in computer science and a minor in mathematics.
                 upon completion of my degree I will be a fulltime software
                 developer at Publicis Sapient in Chicago.
               </p>
