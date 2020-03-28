@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd9b221549798d8ce10701a15980cd3b",
+    "revision": "57319f82744684ad17909508244947c8",
     "url": "/reinvald-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reinvald-react/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "dc47ae3f2a088f8baae8",
+    "revision": "00fb38a8098e45d4bf49",
     "url": "/reinvald-react/static/css/main.62c1485c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reinvald-react/static/js/2.f773fbdc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc47ae3f2a088f8baae8",
-    "url": "/reinvald-react/static/js/main.f75abb61.chunk.js"
+    "revision": "00fb38a8098e45d4bf49",
+    "url": "/reinvald-react/static/js/main.9b77cdcb.chunk.js"
   },
   {
     "revision": "fdf936d498309dd4dcab",

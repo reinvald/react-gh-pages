@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/reinvald-react/precache-manifest.3833c32eb5d280e9eb0cf7d272b984a9.js"
+  "/reinvald-react/precache-manifest.f1b0a5372ac296c39a73d7df292f41a2.js"
 );
 
 self.addEventListener('message', (event) => {
