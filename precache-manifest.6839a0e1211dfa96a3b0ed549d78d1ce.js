@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "69aa46c1a2a35e125d7e6c78856e931f",
+    "revision": "364a40265669deaaab0a04840432197d",
     "url": "/reinvald-react/index.html"
   },
   {
