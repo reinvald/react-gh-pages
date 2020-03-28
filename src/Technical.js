@@ -25,9 +25,9 @@ class Technical extends Component {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="mr-auto">
-              <Nav.Link href="/">about me</Nav.Link>
-              <Nav.Link href="/technical">the technical stuff</Nav.Link>
-              <Nav.Link href="/fun">the fun stuff</Nav.Link>
+              <Nav.Link href="#/">about me</Nav.Link>
+              <Nav.Link href="#/technical">the technical stuff</Nav.Link>
+              <Nav.Link href="#/fun">the fun stuff</Nav.Link>
             </Nav>
             <Nav className="ml-auto">
               <div class="icons">
