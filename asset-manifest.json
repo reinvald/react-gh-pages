@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reinvald-react/static/css/main.62c1485c.chunk.css",
+    "main.js": "/reinvald-react/static/js/main.8332c33c.chunk.js",
+    "main.js.map": "/reinvald-react/static/js/main.8332c33c.chunk.js.map",
+    "runtime-main.js": "/reinvald-react/static/js/runtime-main.733eca68.js",
+    "runtime-main.js.map": "/reinvald-react/static/js/runtime-main.733eca68.js.map",
+    "static/css/2.de424728.chunk.css": "/reinvald-react/static/css/2.de424728.chunk.css",
+    "static/js/2.152312e8.chunk.js": "/reinvald-react/static/js/2.152312e8.chunk.js",
+    "static/js/2.152312e8.chunk.js.map": "/reinvald-react/static/js/2.152312e8.chunk.js.map",
+    "index.html": "/reinvald-react/index.html",
+    "precache-manifest.8133b164d0897b7f87263f612a2fb490.js": "/reinvald-react/precache-manifest.8133b164d0897b7f87263f612a2fb490.js",
+    "service-worker.js": "/reinvald-react/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/reinvald-react/static/css/2.de424728.chunk.css.map",
+    "static/css/main.62c1485c.chunk.css.map": "/reinvald-react/static/css/main.62c1485c.chunk.css.map",
+    "static/js/2.152312e8.chunk.js.LICENSE.txt": "/reinvald-react/static/js/2.152312e8.chunk.js.LICENSE.txt",
+    "static/media/2-line-whitetext-colorshield.png": "/reinvald-react/static/media/2-line-whitetext-colorshield.a29a4185.png",
+    "static/media/aavo_greyscale.png": "/reinvald-react/static/media/aavo_greyscale.5d14ba24.png",
+    "static/media/kisspng-the-beatles-magical-mystery-tour-abbey-road-yellow-walrus-5acc006e8a2674.5985732215233188945659.png": "/reinvald-react/static/media/kisspng-the-beatles-magical-mystery-tour-abbey-road-yellow-walrus-5acc006e8a2674.5985732215233188945659.9b92bd5e.png",
+    "static/media/logo.png": "/reinvald-react/static/media/logo.a5386c06.png",
+    "static/media/App.css": "/reinvald-react/static/media/monaco.5152b5a6.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.733eca68.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.152312e8.chunk.js",
+    "static/css/main.62c1485c.chunk.css",
+    "static/js/main.8332c33c.chunk.js"
+  ]
+}
