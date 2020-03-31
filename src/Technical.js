@@ -115,7 +115,7 @@ class Technical extends Component {
                 Ellucian. I spent this time working directly inbetween the devs
                 and the QA team to optimize the automated testing suite and
                 overall workflow. I'm currently working on{" "}
-                <a href="http://www.amiai.space">AMiAI</a>, a senior design
+                <a href="https://www.amiai.space">AMiAI</a>, a senior design
                 project, to study the potential for language models (namely
                 OpenAI's GPT2) to be exploited to create malicious product
                 reviews. upon graduating, I'll be a full-time software developer
