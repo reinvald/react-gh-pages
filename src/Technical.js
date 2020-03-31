@@ -114,11 +114,12 @@ class Technical extends Component {
                 this past summer I was a software development intern at
                 Ellucian. I spent this time working directly inbetween the devs
                 and the QA team to optimize the automated testing suite and
-                overall workflow. I'm currently working on a senior design
-                project with three others to study the potential for language
-                models (namely OpenAI's GPT2) to be exploited to create
-                malicious product reviews. upon graduating, I'll be a full-time
-                software developer at Publicis Sapient in Chicago.
+                overall workflow. I'm currently working on{" "}
+                <a href="http://www.amiai.space">AMiAI</a>, a senior design
+                project, to study the potential for language models (namely
+                OpenAI's GPT2) to be exploited to create malicious product
+                reviews. upon graduating, I'll be a full-time software developer
+                at Publicis Sapient in Chicago.
               </p>
               <p className="pt-3 main-text">
                 complete resume available upon request.
