@@ -103,10 +103,11 @@ class Technical extends Component {
               <h1 className="pt-3 header-text">technical skills</h1>
               <p className="pt-3 main-text">
                 I am most comfortable with Java, React, Node.js, HTML, C, LaTeX,
-                SQL, Git, Scrum, Linux/OSX, Amazon EMR, QA, and automated
-                testing. I'm a beginner at Python, OCaml, MongoDB, and Android.
-                I currently serve as a CIS350 Project Manager and oversee three
-                groups of four students.
+                SQL, Git, Scrum, Linux/OSX, AWS (EMR, DynamoDB), QA testing, and
+                automated testing (Selenium). I'm a beginner at Python, OCaml,
+                MongoDB, and Android. I currently serve as a CIS350 Project
+                Manager and oversee three groups of four students in semester
+                long projects.
               </p>
 
               <h1 className="pt-3 header-text">past, present, future</h1>
@@ -115,11 +116,11 @@ class Technical extends Component {
                 Ellucian. I spent this time working directly inbetween the devs
                 and the QA team to optimize the automated testing suite and
                 overall workflow. I'm currently working on{" "}
-                <a href="https://www.amiai.space">AMiAI</a>, a senior design
-                project, to study the potential for language models (namely
-                OpenAI's GPT2) to be exploited to create malicious product
-                reviews. upon graduating, I'll be a full-time software developer
-                at Publicis Sapient in Chicago.
+                <a href="https://www.amiai.space">AMiAI</a> (in alpha), a senior
+                design project, to study the potential for language models
+                (namely OpenAI's GPT2) to be exploited to create malicious
+                product reviews. upon graduating, I'll be a full-time software
+                developer at Publicis Sapient in Chicago.
               </p>
               <p className="pt-3 main-text">
                 complete resume available upon request.

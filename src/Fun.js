@@ -108,11 +108,11 @@ class Fun extends Component {
               <h1 className="pt-3 header-text">books</h1>
               <p className="pt-3 main-text">
                 this year I have really been pushing myself to read more. so far
-                this year I have read The Winter Fortress by Neal Bascomb, The
-                Doors of Perception by Aldous Huxley, Hard-Boiled Wonderland and
-                the End of the World by Haruki Murakami, and The Third Policeman
-                by Flann O'Brien. I am currently reading The Fifth Risk by
-                Michael Lewis.
+                I have read The Winter Fortress by Neal Bascomb, The Doors of
+                Perception by Aldous Huxley, Hard-Boiled Wonderland and the End
+                of the World by Haruki Murakami, The Third Policeman by Flann
+                O'Brien, and The Fifth Risk by Michael Lewis. I am currently
+                reading To Kill a Mockingbird a Mockingbird by Harper Lee.
               </p>
               <h1 className="pt-3 header-text">film</h1>
               <p className="pt-3 main-text">
