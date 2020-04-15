@@ -117,13 +117,13 @@ class Technical extends Component {
                 and the QA team to optimize the automated testing suite and
                 overall workflow. I'm currently working on{" "}
                 <a href="https://www.amiai.space">AMiAI</a> (in alpha), a senior
-                design project, to study the potential for language models
+                design project to study the potential for language models
                 (namely OpenAI's GPT2) to be exploited to create malicious
                 product reviews. upon graduating, I'll be a full-time software
                 developer at Publicis Sapient in Chicago.
               </p>
               <p className="pt-3 main-text">
-                complete resume available upon request.
+                <i>complete resume available upon request.</i>
               </p>
             </Col>
             <Col lg={true}>
@@ -139,6 +139,40 @@ class Technical extends Component {
                 alt="Penn Engineering"
                 fluid
               />
+              <Row className="align-items-center">
+                <Col>
+                  <Image
+                    className="mt-5 p-1"
+                    src={require("./img/kisspng-java-programming-computer-programming-programming-coffee-jar-5ac598dbaa95c6.3825662815228991636987.png")}
+                    alt="Java"
+                    fluid
+                  />
+                </Col>
+                <Col>
+                  <Image
+                    className="mt-5 p-1"
+                    src={require("./img/kisspng-node-js-javascript-website-development-express-js-weekly-2-5b7c78fc5a3e87.9717577015348840923697.png")}
+                    alt="Node"
+                    fluid
+                  />
+                </Col>
+                <Col>
+                  <Image
+                    className="mt-5 p-1"
+                    src={require("./img/kisspng-react-javascript-angularjs-ionic-atom-5b154be6947457.3471941815281223426081.png")}
+                    alt="React"
+                    fluid
+                  />
+                </Col>
+                <Col>
+                  <Image
+                    className="mt-5 p-1"
+                    src={require("./img/kisspng-scrum-agile-software-development-user-experience-d-highly-organized-5adef161c81903.3849556415245602258196.png")}
+                    alt="Scrum"
+                    fluid
+                  />
+                </Col>
+              </Row>
             </Col>
           </Row>
         </Container>
