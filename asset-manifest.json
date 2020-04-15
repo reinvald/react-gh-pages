@@ -1,21 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.a38d1289.chunk.css",
-    "main.js": "/static/js/main.ba8382f4.chunk.js",
-    "main.js.map": "/static/js/main.ba8382f4.chunk.js.map",
+    "main.js": "/static/js/main.a4882e38.chunk.js",
+    "main.js.map": "/static/js/main.a4882e38.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.40f9e888.js",
     "runtime-main.js.map": "/static/js/runtime-main.40f9e888.js.map",
     "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.f773fbdc.chunk.js": "/static/js/2.f773fbdc.chunk.js",
-    "static/js/2.f773fbdc.chunk.js.map": "/static/js/2.f773fbdc.chunk.js.map",
+    "static/js/2.39ac3d87.chunk.js": "/static/js/2.39ac3d87.chunk.js",
+    "static/js/2.39ac3d87.chunk.js.map": "/static/js/2.39ac3d87.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.89d40b19df647bc2a23116e5d9d99bbd.js": "/precache-manifest.89d40b19df647bc2a23116e5d9d99bbd.js",
+    "precache-manifest.7a7b9a72a1e089ee6b1d16c6a6bf4a02.js": "/precache-manifest.7a7b9a72a1e089ee6b1d16c6a6bf4a02.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
     "static/css/main.a38d1289.chunk.css.map": "/static/css/main.a38d1289.chunk.css.map",
-    "static/js/2.f773fbdc.chunk.js.LICENSE.txt": "/static/js/2.f773fbdc.chunk.js.LICENSE.txt",
+    "static/js/2.39ac3d87.chunk.js.LICENSE.txt": "/static/js/2.39ac3d87.chunk.js.LICENSE.txt",
     "static/media/2-line-whitetext-colorshield.png": "/static/media/2-line-whitetext-colorshield.a29a4185.png",
     "static/media/aavo_greyscale.png": "/static/media/aavo_greyscale.5d14ba24.png",
+    "static/media/kisspng-java-programming-computer-programming-programming-coffee-jar-5ac598dbaa95c6.3825662815228991636987.png": "/static/media/kisspng-java-programming-computer-programming-programming-coffee-jar-5ac598dbaa95c6.3825662815228991636987.7f5403cc.png",
+    "static/media/kisspng-react-javascript-angularjs-ionic-atom-5b154be6947457.3471941815281223426081.png": "/static/media/kisspng-react-javascript-angularjs-ionic-atom-5b154be6947457.3471941815281223426081.70f87bba.png",
+    "static/media/kisspng-scrum-agile-software-development-user-experience-d-highly-organized-5adef161c81903.3849556415245602258196.png": "/static/media/kisspng-scrum-agile-software-development-user-experience-d-highly-organized-5adef161c81903.3849556415245602258196.a5c44d83.png",
     "static/media/kisspng-the-beatles-magical-mystery-tour-abbey-road-yellow-walrus-5acc006e8a2674.5985732215233188945659.png": "/static/media/kisspng-the-beatles-magical-mystery-tour-abbey-road-yellow-walrus-5acc006e8a2674.5985732215233188945659.9b92bd5e.png",
     "static/media/logo.png": "/static/media/logo.a5386c06.png",
     "static/media/App.css": "/static/media/monaco.5152b5a6.ttf"
@@ -23,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.40f9e888.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.f773fbdc.chunk.js",
+    "static/js/2.39ac3d87.chunk.js",
     "static/css/main.a38d1289.chunk.css",
-    "static/js/main.ba8382f4.chunk.js"
+    "static/js/main.a4882e38.chunk.js"
   ]
 }

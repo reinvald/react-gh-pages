@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18d10ecd80f4c37a2665f1eb40285d22",
+    "revision": "7d0d40192a8ec0aa2893aeb569e948ce",
     "url": "/index.html"
   },
   {
-    "revision": "e0fcae4eea4436d2fdf7",
+    "revision": "606f9fc55bb2be23b2f9",
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "187ea7c6319e775856ed",
+    "revision": "8554b6b45e19320070e5",
     "url": "/static/css/main.a38d1289.chunk.css"
   },
   {
-    "revision": "e0fcae4eea4436d2fdf7",
-    "url": "/static/js/2.f773fbdc.chunk.js"
+    "revision": "606f9fc55bb2be23b2f9",
+    "url": "/static/js/2.39ac3d87.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.f773fbdc.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.39ac3d87.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "187ea7c6319e775856ed",
-    "url": "/static/js/main.ba8382f4.chunk.js"
+    "revision": "8554b6b45e19320070e5",
+    "url": "/static/js/main.a4882e38.chunk.js"
   },
   {
     "revision": "87c7a3692d491a14676e",
@@ -34,6 +34,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d14ba24113efb419d183a19b7052d8f",
     "url": "/static/media/aavo_greyscale.5d14ba24.png"
+  },
+  {
+    "revision": "7f5403ccd080015b83bc1f40c1881343",
+    "url": "/static/media/kisspng-java-programming-computer-programming-programming-coffee-jar-5ac598dbaa95c6.3825662815228991636987.7f5403cc.png"
+  },
+  {
+    "revision": "70f87bba34487dc1c0cb8916d800c63b",
+    "url": "/static/media/kisspng-react-javascript-angularjs-ionic-atom-5b154be6947457.3471941815281223426081.70f87bba.png"
+  },
+  {
+    "revision": "a5c44d8364571f62d6922722aeee5f25",
+    "url": "/static/media/kisspng-scrum-agile-software-development-user-experience-d-highly-organized-5adef161c81903.3849556415245602258196.a5c44d83.png"
   },
   {
     "revision": "9b92bd5e088168afd4599f9ede1b2951",
