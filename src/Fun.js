@@ -111,10 +111,10 @@ class Fun extends Component {
                 I have read The Winter Fortress by Neal Bascomb, The Doors of
                 Perception by Aldous Huxley, Hard-Boiled Wonderland and the End
                 of the World by Haruki Murakami, The Third Policeman by Flann
-                O'Brien, The Fifth Risk by Michael Lewis, and To Kill a
-                Mockingbird a Mockingbird by Harper Lee (didn't read it in high
-                school!). I am now reading The Splendid and the Vile by Erik
-                Larson.
+                O'Brien, The Fifth Risk by Michael Lewis, To Kill a Mockingbird
+                a Mockingbird by Harper Lee (didn't read it in high school!),
+                and The Splendid and the Vile by Erik Larson. I am now reading
+                Born a Crime by Trevor Noah.
               </p>
               <h1 className="pt-3 header-text">film</h1>
               <p className="pt-3 main-text">
