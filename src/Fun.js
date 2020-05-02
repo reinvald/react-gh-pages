@@ -113,8 +113,9 @@ class Fun extends Component {
                 of the World by Haruki Murakami, The Third Policeman by Flann
                 O'Brien, The Fifth Risk by Michael Lewis, To Kill a Mockingbird
                 a Mockingbird by Harper Lee (didn't read it in high school!),
-                and The Splendid and the Vile by Erik Larson. I am now reading
-                Born a Crime by Trevor Noah.
+                The Splendid and the Vile by Erik Larson, and Born a Crime by
+                Trevor Noah. I am now reading J Dilla's Donuts by Jordan
+                Ferguson.
               </p>
               <h1 className="pt-3 header-text">film</h1>
               <p className="pt-3 main-text">
