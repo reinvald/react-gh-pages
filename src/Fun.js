@@ -114,8 +114,8 @@ class Fun extends Component {
                 O'Brien, The Fifth Risk by Michael Lewis, To Kill a Mockingbird
                 a Mockingbird by Harper Lee (didn't read it in high school!),
                 The Splendid and the Vile by Erik Larson, Born a Crime by Trevor
-                Noah, and J Dilla's Donuts by Jordan Ferguson. I am now reading
-                On the Road by Jack Kerouac.
+                Noah, J Dilla's Donuts by Jordan Ferguson, and On the Road by
+                Jack Kerouac.
               </p>
               <h1 className="pt-3 header-text">film</h1>
               <p className="pt-3 main-text">
