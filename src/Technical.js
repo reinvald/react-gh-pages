@@ -90,15 +90,14 @@ class Technical extends Component {
             <Col lg={true}>
               <h1 className="mt-5 header-text">education</h1>
               <p className="pt-3 main-text">
-                I'm a senior and a candidate for a BSE in computer science with
-                a minor in mathematics from the University of Pennsylvania. some
-                of my relevant coursework includes Algorithmic Game Theory,
-                Computer Architecture, Operating Systems, Data Structures and
-                Algorithms, Scalable and Cloud Computing, Databases and
-                Information Systems, Software Design, Discrete Mathematics,
-                Number Theory, as well as Automata, Computability, and
-                Complexity. I also hold a BA degree from the Central High School
-                of Philadelphia.
+                I recently graduated with a BSE in computer science with a minor
+                in mathematics from the University of Pennsylvania. some of my
+                relevant coursework includes Algorithmic Game Theory, Computer
+                Architecture, Operating Systems, Data Structures and Algorithms,
+                Scalable and Cloud Computing, Databases and Information Systems,
+                Software Design, Discrete Mathematics, Number Theory, as well as
+                Automata, Computability, and Complexity. I also hold a BA degree
+                from the Central High School of Philadelphia.
               </p>
               <h1 className="pt-3 header-text">technical skills</h1>
               <p className="pt-3 main-text">
@@ -120,8 +119,9 @@ class Technical extends Component {
                 for language models (namely OpenAI's GPT2) to be exploited to
                 create malicious product reviews. I am spending much of my time
                 in quarantine working on a handful of simple Python projects to
-                get more comfortable with the language. upon graduating, I'll be
-                a full-time software developer at Publicis Sapient in Chicago.
+                get more comfortable with the language. later this year I will
+                be a full-time software developer at Publicis Sapient in
+                Chicago.
               </p>
               <p className="pt-3 main-text">
                 <i>complete resume available upon request.</i>

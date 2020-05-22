@@ -115,7 +115,8 @@ class Fun extends Component {
                 a Mockingbird by Harper Lee (didn't read it in high school!),
                 The Splendid and the Vile by Erik Larson, Born a Crime by Trevor
                 Noah, J Dilla's Donuts by Jordan Ferguson, and On the Road by
-                Jack Kerouac.
+                Jack Kerouac. I am currently reading Confessions of a Mask by
+                Yukio Mishima.
               </p>
               <h1 className="pt-3 header-text">film</h1>
               <p className="pt-3 main-text">
