@@ -101,9 +101,8 @@ class Fun extends Component {
                 I think a person's taste in music says a lot of them. here are
                 some of my favorite artists (new and old): Bob Dylan, LCD
                 Soundsystem, Nas, Yung Lean, Kaytranada, Sufjan Stevens, Wilco,
-                Whitney, Daft Punk, The Beatles, The Grateful Dead, Nas,
-                HOMESHAKE, Henry Mancini, The Postal Service, Glenn Miller,
-                MGMT...
+                Whitney, Daft Punk, The Beatles, The Grateful Dead, HOMESHAKE,
+                Henry Mancini, The Postal Service, Glenn Miller, MGMT...
               </p>
               <h1 className="pt-3 header-text">books</h1>
               <p className="pt-3 main-text">
