@@ -113,9 +113,10 @@ class Fun extends Component {
                 O'Brien, The Fifth Risk by Michael Lewis, To Kill a Mockingbird
                 a Mockingbird by Harper Lee (didn't read it in high school!),
                 The Splendid and the Vile by Erik Larson, Born a Crime by Trevor
-                Noah, J Dilla's Donuts by Jordan Ferguson, and On the Road by
-                Jack Kerouac. I am currently reading Confessions of a Mask by
-                Yukio Mishima.
+                Noah, J Dilla's Donuts by Jordan Ferguson, On the Road by Jack
+                Kerouac, and Confessions of a Mask by Yukio Mishima. I am now
+                reading Extreme Ownership: How U.S. Navy SEALs Lead and Win by
+                Jocko Willink & Leif Babin.
               </p>
               <h1 className="pt-3 header-text">film</h1>
               <p className="pt-3 main-text">
