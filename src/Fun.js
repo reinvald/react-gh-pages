@@ -19,15 +19,15 @@ class Fun extends Component {
           <Row className="align-items-center">
             <Col lg={true}>
               <h1 className="mt-5 header-text">interests and hobbies</h1>
-              <p className="pt-3 main-text">
+              <p className="pt-1 main-text">
                 Some of the things that I am most passionate about in life are
                 music (listening to and collecting vinyl), sneaker collecting
                 (hoarding in the eyes of some), coffee, the 76ers, veganism (4
                 years strong!), weightlifting, cycling, and of course, my
                 friends and family ❤
               </p>
-              <h1 className="pt-3 header-text">music</h1>
-              <p className="pt-3 main-text">
+              <h1 className="pt-1 header-text">music</h1>
+              <p className="pt-1 main-text">
                 I think a person's taste in music says a lot of them. Here are
                 some of my favorite artists (new and old): Bob Dylan, LCD
                 Soundsystem, The Talking Heads, Nas, Yung Lean, Kaytranada,
@@ -35,22 +35,26 @@ class Fun extends Component {
                 Grateful Dead, HOMESHAKE, Henry Mancini, The Postal Service,
                 Glenn Miller, MGMT...
               </p>
-              <h1 className="pt-3 header-text">books</h1>
-              <p className="pt-3 main-text">
-                This year I've really been pushing myself to read more. So far I
-                have read some fantastic books. Some of my favorites have been
-                The Winter Fortress by Neal Bascomb, The Doors of Perception by
-                Aldous Huxley, Hard-Boiled Wonderland and the End of the World
-                by Haruki Murakami, The Third Policeman by Flann O'Brien, Born a
-                Crime by Trevor Noah, and On the Road by Jack Kerouac. I'm now
-                reading How to Do Nothing: Resisting the Attention Economy by
+              <h1 className="pt-1 header-text">books</h1>
+              <p className="pt-1 main-text">
+                I've been pushing myself to read more. Some of my recent
+                favorites have been <i>The Winter Fortress</i> by Neal Bascomb,{" "}
+                <i>Hard-Boiled Wonderland and the End of the World</i> by Haruki
+                Murakami, and <i>Born a Crime</i> by Trevor Noah. I'm now
+                reading{" "}
+                <i>How to Do Nothing: Resisting the Attention Economy</i> by
                 Jenny Odell.
               </p>
-              <h1 className="pt-3 header-text">film</h1>
-              <p className="pt-3 main-text">
+              <h1 className="pt-1 header-text">film</h1>
+              <p className="pt-1 main-text">
                 Movies are a big part of my life, too. I don't watch them all
                 too often, but some of my favorites are Yellow Submarine,
                 Raising Arizona, A Town Called Panic, and Full Metal Jacket.
+              </p>
+              <h1 className="pt-1 header-text">misc</h1>
+              <p className="pt-1 main-text">
+                Other things I'm a big fan of: the <i>Halo</i> and{" "}
+                <i>BioShock</i> games, cats, Art Deco.
               </p>
             </Col>
             <Col lg={true}>
