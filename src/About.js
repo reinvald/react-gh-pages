@@ -54,11 +54,11 @@ class About extends Component {
             </Col>
             <Col lg={true}>
               <Image
-                className="mt-5 p-5"
+                className="mt-5 p-1"
                 src={require("./img/aavo_greyscale.png")}
                 alt="Teaching at GGAST"
                 fluid
-                roundedCircle
+                thumbnail
               />
             </Col>
           </Row>
