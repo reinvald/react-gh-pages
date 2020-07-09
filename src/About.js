@@ -24,12 +24,12 @@ class About extends Component {
             <Col lg={true}>
               <h1 className="mt-5 header-text">a little about me</h1>
               <p className="pt-3 main-text">
-                Hello! My name is Aavo. I hail from Tartu, Estonia, but grew up
-                in Philly. I'm a (very) recent graduate of the University of
-                Pennsylvania and a proud alumnus of Central High School (275). I
-                received a BSE degree in computer science and a minor in
-                mathematics from Penn. I am an incoming fulltime software
-                developer at Publicis Sapient in Chicago.
+                TEST Hello! My name is Aavo. I hail from Tartu, Estonia, but
+                grew up in Philly. I'm a (very) recent graduate of the
+                University of Pennsylvania and a proud alumnus of Central High
+                School (275). I received a BSE degree in computer science and a
+                minor in mathematics from Penn. I am an incoming fulltime
+                software developer at Publicis Sapient in Chicago.
               </p>
               <h1 className="pt-3 header-text">what I do</h1>
               <p className="pt-3 main-text">
