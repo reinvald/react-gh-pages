@@ -17,7 +17,7 @@ class Fun extends Component {
         <Header />
         <Container>
           <Row className="align-items-center">
-            <Col xs={6}>
+            <Col lg={true}>
               <h1 className="mt-5 header-text">interests and hobbies</h1>
               <p className="pt-3 main-text">
                 Some of the things that I am most passionate about in life are
@@ -52,17 +52,11 @@ class Fun extends Component {
                 Raising Arizona, A Town Called Panic, and Full Metal Jacket.
               </p>
             </Col>
-            <Col xs={5}>
+            <Col lg={true}>
               <Image
                 className="mt-2 p-2"
                 src={require("./img/kisspng-the-beatles-magical-mystery-tour-abbey-road-yellow-walrus-5acc006e8a2674.5985732215233188945659.png")}
                 alt="Magical Mystery Tour"
-                fluid
-              />
-              <Image
-                className="mt-1 p-3"
-                src={require("./img/Master_Chief_in_Halo_3.png")}
-                alt="Master Chief (Halo 3)"
                 fluid
               />
             </Col>
