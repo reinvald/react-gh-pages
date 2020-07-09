@@ -54,7 +54,7 @@ class Fun extends Component {
               <h1 className="pt-1 header-text">misc</h1>
               <p className="pt-1 main-text">
                 Other things I'm a big fan of: the <i>Halo</i> and{" "}
-                <i>BioShock</i> games, cats, Art Deco.
+                <i>BioShock</i> games, cats, and Art Deco.
               </p>
             </Col>
             <Col lg={true}>
