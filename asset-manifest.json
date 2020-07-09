@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.a38d1289.chunk.css",
-    "main.js": "/static/js/main.3fa9c7db.chunk.js",
-    "main.js.map": "/static/js/main.3fa9c7db.chunk.js.map",
+    "main.js": "/static/js/main.4854deb0.chunk.js",
+    "main.js.map": "/static/js/main.4854deb0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.40f9e888.js",
     "runtime-main.js.map": "/static/js/runtime-main.40f9e888.js.map",
     "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.39ac3d87.chunk.js": "/static/js/2.39ac3d87.chunk.js",
-    "static/js/2.39ac3d87.chunk.js.map": "/static/js/2.39ac3d87.chunk.js.map",
+    "static/js/2.a034a9c6.chunk.js": "/static/js/2.a034a9c6.chunk.js",
+    "static/js/2.a034a9c6.chunk.js.map": "/static/js/2.a034a9c6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.82978d99a46c774c9ad4c0c7ece68e0d.js": "/precache-manifest.82978d99a46c774c9ad4c0c7ece68e0d.js",
+    "precache-manifest.f694baacb07fe06de238976cadb24303.js": "/precache-manifest.f694baacb07fe06de238976cadb24303.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
     "static/css/main.a38d1289.chunk.css.map": "/static/css/main.a38d1289.chunk.css.map",
-    "static/js/2.39ac3d87.chunk.js.LICENSE.txt": "/static/js/2.39ac3d87.chunk.js.LICENSE.txt",
+    "static/js/2.a034a9c6.chunk.js.LICENSE.txt": "/static/js/2.a034a9c6.chunk.js.LICENSE.txt",
     "static/media/2-line-whitetext-colorshield.png": "/static/media/2-line-whitetext-colorshield.a29a4185.png",
+    "static/media/Master_Chief_in_Halo_3.png": "/static/media/Master_Chief_in_Halo_3.cc34449c.png",
     "static/media/aavo_greyscale.png": "/static/media/aavo_greyscale.5d14ba24.png",
     "static/media/kisspng-java-programming-computer-programming-programming-coffee-jar-5ac598dbaa95c6.3825662815228991636987.png": "/static/media/kisspng-java-programming-computer-programming-programming-coffee-jar-5ac598dbaa95c6.3825662815228991636987.7f5403cc.png",
     "static/media/kisspng-react-javascript-angularjs-ionic-atom-5b154be6947457.3471941815281223426081.png": "/static/media/kisspng-react-javascript-angularjs-ionic-atom-5b154be6947457.3471941815281223426081.70f87bba.png",
@@ -26,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.40f9e888.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.39ac3d87.chunk.js",
+    "static/js/2.a034a9c6.chunk.js",
     "static/css/main.a38d1289.chunk.css",
-    "static/js/main.3fa9c7db.chunk.js"
+    "static/js/main.4854deb0.chunk.js"
   ]
 }
