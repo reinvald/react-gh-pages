@@ -5,13 +5,14 @@ import Fun from "./Fun";
 import About from "./About";
 import Technical from "./Technical";
 import "bootstrap/dist/css/bootstrap.min.css";
+import Landing from "./Landing";
 
 function App() {
   return (
     <div className="App">
       <Router>
         <Switch>
-          <Route exact path="/" render={() => <About />} />
+          <Route exact path="/" render={() => <Landing />} />
           <Route exact path="/about" render={() => <About />} />
           <Route exact path="/technical" render={() => <Technical />} />
           <Route exact path="/fun" render={() => <Fun />} />
