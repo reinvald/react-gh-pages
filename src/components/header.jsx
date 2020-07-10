@@ -6,13 +6,13 @@ class Header extends Component {
   render() {
     return (
       <Navbar collapseOnSelect expand="lg" className="color-nav" variant="dark">
-        <Navbar.Brand href="https://reinvald.com/">Aavo Reinvald</Navbar.Brand>
+        <Navbar.Brand href="/">Aavo Reinvald</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">
-            <Nav.Link href="https://reinvald.com/about">about</Nav.Link>
-            <Nav.Link href="https://reinvald.com/technical">technical</Nav.Link>
-            <Nav.Link href="https://reinvald.com/fun">fun + misc</Nav.Link>
+            <Nav.Link href="about">about</Nav.Link>
+            <Nav.Link href="technical">technical</Nav.Link>
+            <Nav.Link href="fun">fun + misc</Nav.Link>
           </Nav>
           <Nav className="ml-auto">
             <div class="icons">
