@@ -7,35 +7,52 @@ import Technical from "./Technical";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return (
-    <div className="App">
-      <Router>
-        <Switch>
-          <Route
-            exact
-            path={process.env.PUBLIC_URL + "/"}
-            render={() => <About />}
-          />
-          <Route
-            exact
-            path={process.env.PUBLIC_URL + "/about"}
-            render={() => <About />}
-          />
-          <Route
-            exact
-            path={process.env.PUBLIC_URL + "/technical"}
-            render={() => <Technical />}
-          />
-          <Route
-            exact
-            path={process.env.PUBLIC_URL + "/fun"}
-            render={() => <Fun />}
-          />
-          <Route path={process.env.PUBLIC_URL + "*"} render={() => <About />} />
-        </Switch>
-      </Router>
-    </div>
-  );
+  if (!process.env.NODE_ENV || process.env.NODE_ENV === "development") {
+    return (
+      <div className="App">
+        <Router>
+          <Switch>
+            <Route exact path="/" render={() => <About />} />
+            <Route exact path="/about" render={() => <About />} />
+            <Route exact path="/technical" render={() => <Technical />} />
+            <Route exact path="/fun" render={() => <Fun />} />
+            <Route path="*" render={() => <About />} />
+          </Switch>
+        </Router>
+      </div>
+    );
+  } else {
+    console.log("cruck");
+    return (
+      <div className="App">
+        <Router>
+          <Switch>
+            <Route
+              exact
+              path="https://reinvald.com/"
+              render={() => <About />}
+            />
+            <Route
+              exact
+              path="https://reinvald.com/about"
+              render={() => <About />}
+            />
+            <Route
+              exact
+              path="https://reinvald.com/technical"
+              render={() => <Technical />}
+            />
+            <Route
+              exact
+              path="https://reinvald.com/fun"
+              render={() => <Fun />}
+            />
+            <Route path="*" render={() => <About />} />
+          </Switch>
+        </Router>
+      </div>
+    );
+  }
 }
 
 export default App;
