@@ -10,7 +10,7 @@ import "./App.css";
 
 class About extends Component {
   render() {
-    document.body.className = "body-bg";
+    document.body.className = "css-selector";
 
     return (
       <React.Fragment>

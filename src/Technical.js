@@ -7,7 +7,7 @@ import Header from "./components/header";
 
 class Technical extends Component {
   render() {
-    document.body.className = "body-bg";
+    document.body.className = "css-selector";
     return (
       <React.Fragment>
         <link
