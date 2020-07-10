@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./App.css";
 import Fun from "./Fun";
 import About from "./About";
@@ -12,6 +12,7 @@ function App() {
       <Router>
         <Switch>
           <Route exact path="/" render={() => <About />} />
+          <Route exact path="/about" render={() => <About />} />
           <Route exact path="/technical" render={() => <Technical />} />
           <Route exact path="/fun" render={() => <Fun />} />
         </Switch>
