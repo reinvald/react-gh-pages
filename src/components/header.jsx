@@ -10,9 +10,9 @@ class Header extends Component {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">
-            <Nav.Link href="about">about</Nav.Link>
-            <Nav.Link href="technical">technical</Nav.Link>
-            <Nav.Link href="fun">fun + misc</Nav.Link>
+            <Nav.Link href="/about">about</Nav.Link>
+            <Nav.Link href="/technical">technical</Nav.Link>
+            <Nav.Link href="/fun">fun + misc</Nav.Link>
           </Nav>
           <Nav className="ml-auto">
             <div class="icons">
