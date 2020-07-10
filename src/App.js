@@ -11,10 +11,27 @@ function App() {
     <div className="App">
       <Router>
         <Switch>
-          <Route exact path="/" render={() => <About />} />
-          <Route exact path="/about" render={() => <About />} />
-          <Route exact path="/technical" render={() => <Technical />} />
-          <Route exact path="/fun" render={() => <Fun />} />
+          <Route
+            exact
+            path={process.env.PUBLIC_URL + "/"}
+            render={() => <About />}
+          />
+          <Route
+            exact
+            path={process.env.PUBLIC_URL + "/about"}
+            render={() => <About />}
+          />
+          <Route
+            exact
+            path={process.env.PUBLIC_URL + "/technical"}
+            render={() => <Technical />}
+          />
+          <Route
+            exact
+            path={process.env.PUBLIC_URL + "/fun"}
+            render={() => <Fun />}
+          />
+          <Route path={process.env.PUBLIC_URL + "*"} render={() => <About />} />
         </Switch>
       </Router>
     </div>
