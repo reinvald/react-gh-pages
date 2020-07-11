@@ -18,7 +18,7 @@ class Technical extends Component {
         <Container>
           <Row className="align-items-center">
             <Col lg={true}>
-              <h1 className="mt-5 header-text">education</h1>
+              <h1 className="mt-5 header-text">Education</h1>
               <p className="pt-3 main-text">
                 I recently graduated with a BSE in computer science and a minor
                 in mathematics from the University of Pennsylvania. Some of my
@@ -29,7 +29,7 @@ class Technical extends Component {
                 Automata, Computability, and Complexity. I also hold a BA degree
                 from the Central High School of Philadelphia.
               </p>
-              <h1 className="pt-3 header-text">technical skills</h1>
+              <h1 className="pt-3 header-text">Technical Skills</h1>
               <p className="pt-3 main-text">
                 I am most comfortable with Python, Java, JavaScript (React +
                 Node.js, HTML + CSS), LaTeX, SQL + NoSQL, Git, Scrum, and
@@ -37,7 +37,7 @@ class Technical extends Component {
                 MongoDB, Android, AWS (EMR, DynamoDB), and QA/automated testing.
               </p>
 
-              <h1 className="pt-3 header-text">past, present, future</h1>
+              <h1 className="pt-3 header-text">Past, Present, Future</h1>
               <p className="pt-3 main-text">
                 Last summer I was a software development intern at Ellucian. I
                 spent this time working directly inbetween the devs and the QA
@@ -51,7 +51,7 @@ class Technical extends Component {
                 Sapient.
               </p>
               <p className="pt-3 main-text">
-                <i>complete resume available upon request.</i>
+                <i>Complete resume available upon request.</i>
               </p>
             </Col>
             <Col lg={true}>

@@ -22,7 +22,7 @@ class About extends Component {
         <Container>
           <Row className="align-items-center">
             <Col lg={true}>
-              <h1 className="mt-5 header-text">a little about me</h1>
+              <h1 className="mt-5 header-text">A Little About Me</h1>
               <p className="pt-3 main-text">
                 Hello! My name is Aavo. I hail from Tartu, Estonia, but grew up
                 in Philly. I'm a (very) recent graduate of the University of
@@ -31,7 +31,7 @@ class About extends Component {
                 mathematics from Penn. I am an incoming fulltime software
                 developer at Publicis Sapient in Chicago.
               </p>
-              <h1 className="pt-3 header-text">what I do</h1>
+              <h1 className="pt-3 header-text">What I Do</h1>
               <p className="pt-3 main-text">
                 The projects that give me the most joy are the ones that let me
                 work across the full stack. My interests currently lie in
@@ -40,7 +40,7 @@ class About extends Component {
                 am most passionate about is making computer science both more
                 accessible and more approachable.
               </p>
-              <h1 className="pt-3 header-text">a life changing experience</h1>
+              <h1 className="pt-3 header-text">A Life Changing Experience</h1>
               <p className="pt-3 main-text">
                 My current outlook on engineering was largely shaped by my time
                 in Rwanda. I taught programming at the Gashora Girls Academy of

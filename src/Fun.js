@@ -18,7 +18,7 @@ class Fun extends Component {
         <Container>
           <Row className="align-items-center">
             <Col lg={true}>
-              <h1 className="mt-5 header-text">interests and hobbies</h1>
+              <h1 className="mt-5 header-text">Interests and Hobbies</h1>
               <p className="pt-1 main-text">
                 Some of the things that I am most passionate about in life are
                 music (listening to and collecting vinyl), sneaker collecting
@@ -26,7 +26,7 @@ class Fun extends Component {
                 years strong!), weightlifting, cycling, and of course, my
                 friends and family ❤
               </p>
-              <h1 className="pt-1 header-text">music</h1>
+              <h1 className="pt-1 header-text">Music</h1>
               <p className="pt-1 main-text">
                 I think a person's taste in music says a lot of them. Here are
                 some of my favorite artists (new and old): Bob Dylan, LCD
@@ -35,7 +35,7 @@ class Fun extends Component {
                 Grateful Dead, HOMESHAKE, Henry Mancini, The Postal Service,
                 Glenn Miller, MGMT...
               </p>
-              <h1 className="pt-1 header-text">books</h1>
+              <h1 className="pt-1 header-text">Books</h1>
               <p className="pt-1 main-text">
                 I've been pushing myself to read more. Some of my recent
                 favorites have been <i>The Winter Fortress</i> by Neal Bascomb,{" "}
@@ -45,13 +45,13 @@ class Fun extends Component {
                 <i>How to Do Nothing: Resisting the Attention Economy</i> by
                 Jenny Odell.
               </p>
-              <h1 className="pt-1 header-text">film</h1>
+              <h1 className="pt-1 header-text">Film</h1>
               <p className="pt-1 main-text">
                 Movies are a big part of my life, too. I don't watch them all
                 too often, but some of my favorites are Yellow Submarine,
                 Raising Arizona, A Town Called Panic, and Full Metal Jacket.
               </p>
-              <h1 className="pt-1 header-text">misc</h1>
+              <h1 className="pt-1 header-text">Misc</h1>
               <p className="pt-1 main-text">
                 Other things I'm a big fan of: the <i>Halo</i> and{" "}
                 <i>BioShock</i> games, cats, and Art Deco.
