@@ -102,10 +102,13 @@
   font-family: -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue",
     Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
     "Segoe UI Symbol", "Noto Color Emoji";
-  font-weight: bold;
+  font-weight: 400;
   font-style: normal;
-  font-size: 20px;
+  font-size: 30px;
   text-align: center;
+  border-right: 0.15em solid orange;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 @-webkit-keyframes color-change {

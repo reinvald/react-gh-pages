@@ -8,10 +8,12 @@ class Landing extends Component {
     document.body.className = "css-selector";
     return (
       <React.Fragment>
-        <Container fluid>
-          <Row className="align-items-center overlay">
-            <Col>
-              <h1 className="landing-text">a little about me</h1>
+        <Container>
+          <Row className="align-items-center justify-content-md-center overlay">
+            <Col lg={true}>
+              <h1 className="line-1 landing-text anim-typewriter">
+                Hi there. My name is Aavo. Welcome to my personal website.
+              </h1>
             </Col>
           </Row>
         </Container>
