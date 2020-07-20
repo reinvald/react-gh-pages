@@ -9,13 +9,13 @@
 }
 
 .css-selector {
-  background: linear-gradient(70deg, #af01a1, #86a8e7, #5913e8, #1363e8);
+  background: linear-gradient(224deg, #1ed6ea, #f653ff, #53ffa5);
   background-size: 800% 800%;
 
-  -webkit-animation: AnimationName 60s ease infinite;
-  -moz-animation: AnimationName 60s ease infinite;
-  -o-animation: AnimationName 60s ease infinite;
-  animation: AnimationName 60s ease infinite;
+  -webkit-animation: AnimationName 30s ease infinite;
+  -moz-animation: AnimationName 30s ease infinite;
+  -o-animation: AnimationName 30s ease infinite;
+  animation: AnimationName 30s ease infinite;
 }
 
 @-webkit-keyframes AnimationName {
