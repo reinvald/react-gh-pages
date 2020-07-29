@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03844bd779626639ad13ad9bbf6fd0c7",
+    "revision": "29aa08a73f8e4c3f6e0540cc86c5267b",
     "url": "/index.html"
   },
   {
-    "revision": "bebd3e42939dab95641a",
+    "revision": "bfe2598b375ce6601a24",
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "648db7798ad6376de440",
-    "url": "/static/css/main.30a6724c.chunk.css"
+    "revision": "59eb8cc98429bd965a78",
+    "url": "/static/css/main.6d238ddc.chunk.css"
   },
   {
-    "revision": "bebd3e42939dab95641a",
-    "url": "/static/js/2.2696fc40.chunk.js"
+    "revision": "bfe2598b375ce6601a24",
+    "url": "/static/js/2.a034a9c6.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.2696fc40.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a034a9c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "648db7798ad6376de440",
-    "url": "/static/js/main.08a640af.chunk.js"
+    "revision": "59eb8cc98429bd965a78",
+    "url": "/static/js/main.10aa9e5c.chunk.js"
   },
   {
     "revision": "87c7a3692d491a14676e",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "70f87bba34487dc1c0cb8916d800c63b",
     "url": "/static/media/kisspng-react-javascript-angularjs-ionic-atom-5b154be6947457.3471941815281223426081.70f87bba.png"
+  },
+  {
+    "revision": "cbdd63fe878aa34f36fe4ee3c6fe3b22",
+    "url": "/static/media/kisspng-ruby-on-rails-programming-language-website-develop-timisoara-ruby-on-rails-community-timisoara-roma-5b8d85a3691123.4918315815360014434304.cbdd63fe.png"
   },
   {
     "revision": "a5c44d8364571f62d6922722aeee5f25",
