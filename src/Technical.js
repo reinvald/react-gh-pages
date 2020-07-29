@@ -33,7 +33,7 @@ class Technical extends Component {
               <p className="pt-3 main-text">
                 I am most comfortable with Python, Java, JavaScript (React +
                 Node.js, HTML + CSS), LaTeX, SQL + NoSQL, Git, Scrum, and
-                Linux/OSX. I also have experience with C, OCaml, Selenium,
+                Linux/OSX. I'm a beginner at Ruby (and Rails). I also have experience with C, OCaml, Selenium,
                 MongoDB, Android, AWS (EMR, DynamoDB), and QA/automated testing.
               </p>
 
@@ -42,13 +42,12 @@ class Technical extends Component {
                 Last summer I was a software development intern at Ellucian. I
                 spent this time working directly inbetween the devs and the QA
                 team to optimize the automated testing suite and overall
-                workflow. I just recently finished working on and presenting
-                AMiAI, a senior design project studying the potential for
-                language models (namely OpenAI's GPT2) to be exploited to create
-                malicious product reviews. I am currently working on a handful
-                of small Python projects and with Penn's Linguistic Data
-                Consortium. I am an incoming software engineer at Publicis
-                Sapient.
+                workflow. I recently finished working on and presenting
+                AMiAI, a senior design project studying the potential exploit of
+                language models (namely OpenAI's GPT2) to create
+                malicious product reviews. I am currently working as a part-time
+                programmer for Penn's Linguistic Data Consortium. I will begin work
+                as an associate software engineer at Publicis Sapient this fall.
               </p>
               <p className="pt-3 main-text">
                 <i>Complete resume available upon request.</i>
@@ -73,6 +72,14 @@ class Technical extends Component {
                     className="mt-5 mb-5 p-1"
                     src={require("./img/kisspng-java-programming-computer-programming-programming-coffee-jar-5ac598dbaa95c6.3825662815228991636987.png")}
                     alt="Java"
+                    fluid
+                  />
+                </Col>
+                <Col>
+                  <Image
+                    className="mt-5 mb-5 p-1"
+                    src={require("./img/kisspng-ruby-on-rails-programming-language-website-develop-timisoara-ruby-on-rails-community-timisoara-roma-5b8d85a3691123.4918315815360014434304.png")}
+                    alt="Ruby"
                     fluid
                   />
                 </Col>
