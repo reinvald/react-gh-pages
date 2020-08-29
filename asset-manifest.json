@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.59cee6e9.chunk.css",
-    "main.js": "/static/js/main.10aa9e5c.chunk.js",
-    "main.js.map": "/static/js/main.10aa9e5c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.40f9e888.js",
-    "runtime-main.js.map": "/static/js/runtime-main.40f9e888.js.map",
+    "main.css": "/static/css/main.a7e30eed.chunk.css",
+    "main.js": "/static/js/main.4864821f.chunk.js",
+    "main.js.map": "/static/js/main.4864821f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3c473fd9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3c473fd9.js.map",
     "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.a034a9c6.chunk.js": "/static/js/2.a034a9c6.chunk.js",
-    "static/js/2.a034a9c6.chunk.js.map": "/static/js/2.a034a9c6.chunk.js.map",
+    "static/js/2.7ed5fbe0.chunk.js": "/static/js/2.7ed5fbe0.chunk.js",
+    "static/js/2.7ed5fbe0.chunk.js.map": "/static/js/2.7ed5fbe0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.260b6ebb4995bcf3e26039ff9a698780.js": "/precache-manifest.260b6ebb4995bcf3e26039ff9a698780.js",
+    "precache-manifest.a68d5b1df18eb93bfd694ae473967749.js": "/precache-manifest.a68d5b1df18eb93bfd694ae473967749.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.59cee6e9.chunk.css.map": "/static/css/main.59cee6e9.chunk.css.map",
-    "static/js/2.a034a9c6.chunk.js.LICENSE.txt": "/static/js/2.a034a9c6.chunk.js.LICENSE.txt",
+    "static/css/main.a7e30eed.chunk.css.map": "/static/css/main.a7e30eed.chunk.css.map",
+    "static/js/2.7ed5fbe0.chunk.js.LICENSE.txt": "/static/js/2.7ed5fbe0.chunk.js.LICENSE.txt",
     "static/media/2-line-whitetext-colorshield.png": "/static/media/2-line-whitetext-colorshield.a29a4185.png",
     "static/media/aavo_greyscale.png": "/static/media/aavo_greyscale.5d14ba24.png",
     "static/media/kisspng-java-programming-computer-programming-programming-coffee-jar-5ac598dbaa95c6.3825662815228991636987.png": "/static/media/kisspng-java-programming-computer-programming-programming-coffee-jar-5ac598dbaa95c6.3825662815228991636987.7f5403cc.png",
@@ -25,10 +25,10 @@
     "static/media/App.css": "/static/media/monaco.5152b5a6.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.40f9e888.js",
+    "static/js/runtime-main.3c473fd9.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.a034a9c6.chunk.js",
-    "static/css/main.59cee6e9.chunk.css",
-    "static/js/main.10aa9e5c.chunk.js"
+    "static/js/2.7ed5fbe0.chunk.js",
+    "static/css/main.a7e30eed.chunk.css",
+    "static/js/main.4864821f.chunk.js"
   ]
 }
