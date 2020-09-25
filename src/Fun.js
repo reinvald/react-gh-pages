@@ -42,8 +42,8 @@ class Fun extends Component {
                 <i>Hard-Boiled Wonderland and the End of the World</i> by Haruki
                 Murakami, and <i>Born a Crime</i> by Trevor Noah. I'm now
                 reading{" "}
-                <i>How to Do Nothing: Resisting the Attention Economy</i> by
-                Jenny Odell.
+                <i>Just Kids</i> by
+                Patti Smith.
               </p>
               <h1 className="pt-1 header-text">Film</h1>
               <p className="pt-1 main-text">
