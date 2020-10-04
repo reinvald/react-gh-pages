@@ -45,9 +45,9 @@ class Technical extends Component {
                 workflow. I recently finished working on and presenting
                 AMiAI, a senior design project studying the potential exploit of
                 language models (namely OpenAI's GPT2) to create
-                malicious product reviews. I most recently worked as a part-time
-                programmer for Penn's Linguistic Data Consortium. I will begin work
-                as an associate software engineer at Publicis Sapient this fall.
+                malicious product reviews. I recently worked as a part-time
+                programmer for Penn's Linguistic Data Consortium. I am currently
+                an Associate Software Engineer at Publicis Sapient in Chicago.
               </p>
               <p className="pt-3 main-text">
                 <i>Complete resume available upon request.</i>
