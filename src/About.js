@@ -28,8 +28,8 @@ class About extends Component {
                 in Philly. I'm a (very) recent graduate of the University of
                 Pennsylvania and a proud alumnus of Central High School (275). I
                 received a BSE degree in computer science and a minor in
-                mathematics from Penn. I am an incoming fulltime software
-                developer at Publicis Sapient in Chicago.
+                mathematics from Penn. I am currently
+                an Associate Software Development Engineer at Publicis Sapient in Chicago.
               </p>
               <h1 className="pt-3 header-text">What I Do</h1>
               <p className="pt-3 main-text">

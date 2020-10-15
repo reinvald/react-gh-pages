@@ -47,7 +47,7 @@ class Technical extends Component {
                 language models (namely OpenAI's GPT2) to create
                 malicious product reviews. I recently worked as a part-time
                 programmer for Penn's Linguistic Data Consortium. I am currently
-                an Associate Software Engineer at Publicis Sapient in Chicago.
+                an Associate Software Development Engineer at Publicis Sapient in Chicago.
               </p>
               <p className="pt-3 main-text">
                 <i>Complete resume available upon request.</i>
