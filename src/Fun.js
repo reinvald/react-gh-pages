@@ -22,8 +22,8 @@ class Fun extends Component {
               <p className="pt-1 main-text">
                 Some of the things that I am most passionate about in life are
                 music (listening to and collecting vinyl), sneaker collecting
-                (hoarding in the eyes of some), coffee, the 76ers, veganism (4
-                years strong!), weightlifting, cycling, and of course, my
+                (hoarding in the eyes of some), coffee, the 76ers, veganism (almost 5
+                years strong!), cycling, and of course, my
                 friends and family ❤
               </p>
               <h1 className="pt-1 header-text">Music</h1>
