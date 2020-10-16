@@ -58,7 +58,7 @@ class About extends Component {
                 src={require("./img/aavo_greyscale.png")}
                 alt="Teaching at GGAST"
                 fluid
-                thumbnail
+                roundedCircle
               />
             </Col>
           </Row>
