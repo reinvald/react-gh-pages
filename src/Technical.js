@@ -40,9 +40,9 @@ class Technical extends Component {
               <h1 className="pt-3 header-text">Past, Present, Future</h1>
               <p className="pt-3 main-text">
                 I am currently an Associate Software Development Engineer at
-                Publicis Sapient in Chicago. In particular, I work as a Salesforce
+                Publicis Sapient in Chicago. I work as a Salesforce
                 developer and consultant. As someone new to the company and the
-                Salesforce practice, I am currently working to learn the platform
+                practice, I am currently working to learn the platform
                 and development tools/frameworks (Apex, Lightning Web Components, etc.).
                 I am aiming to get certified as a Salesforce Administrator in the new year.
                 In 2019, I was a software development intern at Ellucian. I
