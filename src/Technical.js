@@ -39,15 +39,20 @@ class Technical extends Component {
 
               <h1 className="pt-3 header-text">Past, Present, Future</h1>
               <p className="pt-3 main-text">
-                Last summer I was a software development intern at Ellucian. I
+                I am currently an Associate Software Development Engineer at
+                Publicis Sapient in Chicago. In particular, I work as a Salesforce
+                developer and consultant. As someone new to the company and the
+                Salesforce practice, I am currently working to learn the platform
+                and development tools/frameworks (Apex, Lightning Web Components, etc.).
+                I am aiming to get certified as a Salesforce Administrator in the new year.
+                In 2019, I was a software development intern at Ellucian. I
                 spent this time working directly inbetween the devs and the QA
                 team to optimize the automated testing suite and overall
                 workflow. I recently finished working on and presenting
                 AMiAI, a senior design project studying the potential exploit of
                 language models (namely OpenAI's GPT2) to create
-                malicious product reviews. I recently worked as a part-time
-                programmer for Penn's Linguistic Data Consortium. I am currently
-                an Associate Software Development Engineer at Publicis Sapient in Chicago.
+                malicious product reviews. Additionally, I recently worked as a part-time
+                Rails programmer for Penn's Linguistic Data Consortium.
               </p>
               <p className="pt-3 main-text">
                 <i>Complete resume available upon request.</i>
