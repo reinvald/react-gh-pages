@@ -39,16 +39,15 @@ class Technical extends Component {
 
               <h1 className="pt-3 header-text">Past, Present, Future</h1>
               <p className="pt-3 main-text">
-                I am currently an Associate Software Development Engineer at
-                Publicis Sapient in Chicago. I work as a Salesforce
-                developer and consultant. As someone new to the company and the
-                practice, I am currently working to learn the platform
-                and development tools/frameworks (Apex, Lightning Web Components, etc.).
-                I am aiming to get certified as a Salesforce Administrator in the new year.
+                I currently work as a software engineer in Publicis Sapient's
+                Salesforce practice. As a certified Salesforce administrator,
+                my project work involves development across the Salesforce tech stack (Apex, LWC, etc.). I'm passionate about
+                leveraging platforms like Salesforce to deliver digital business
+                transformation solutions that empower people and businesses across the world.
                 In 2019, I was a software development intern at Ellucian. I
                 spent this time working directly inbetween the devs and the QA
                 team to optimize the automated testing suite and overall
-                workflow. I recently finished working on and presenting
+                workflow. I recently worked on and presented
                 AMiAI, a senior design project studying the potential exploit of
                 language models (namely OpenAI's GPT2) to create
                 malicious product reviews. Additionally, I recently worked as a part-time
