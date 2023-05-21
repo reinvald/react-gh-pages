@@ -39,10 +39,9 @@ class Technical extends Component {
 
               <h1 className="pt-3 header-text">Past, Present, Future</h1>
               <p className="pt-3 main-text">
-                I currently work as a software engineer in Publicis Sapient's
-                Salesforce practice. As a certified Salesforce administrator,
-                my project work involves development across the Salesforce tech stack (Apex, LWC, etc.). I'm passionate about
-                leveraging platforms like Salesforce to deliver digital business
+                I currently work as a software engineer at CapTech Ventures
+                My project work involves development across the Salesforce tech stack (Apex, LWC, etc.). I'm passionate about
+                leveraging cloud platforms to deliver digital business
                 transformation solutions that empower people and businesses across the world.
                 In 2019, I was a software development intern at Ellucian. I
                 spent this time working directly inbetween the devs and the QA

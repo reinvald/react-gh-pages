@@ -25,11 +25,11 @@ class About extends Component {
               <h1 className="mt-5 header-text">A Little About Me</h1>
               <p className="pt-3 main-text">
                 Hello! My name is Aavo. I hail from Tartu, Estonia, but grew up
-                in Philly. I'm a (very) recent graduate of the University of
+                in Philly. I'm a (somewhat) recent graduate of the University of
                 Pennsylvania and a proud alumnus of Central High School (275). I
                 received a BSE degree in computer science and a minor in
                 mathematics from Penn. I am currently
-                an Associate Software Development Engineer at Publicis Sapient in Chicago.
+                an Associate Software Engineer at CapTech Ventures in New York City.
               </p>
               <h1 className="pt-3 header-text">What I Do</h1>
               <p className="pt-3 main-text">
