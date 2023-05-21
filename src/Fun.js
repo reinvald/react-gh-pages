@@ -22,7 +22,7 @@ class Fun extends Component {
               <p className="pt-1 main-text">
                 Some of the things that I am most passionate about in life are
                 music (listening to and collecting vinyl), sneaker collecting
-                (hoarding in the eyes of some), coffee, the 76ers, veganism (almost 5
+                (hoarding in the eyes of some), coffee, the 76ers, veganism (7
                 years strong!), cycling, and of course, my
                 friends and family ❤
               </p>
@@ -42,8 +42,8 @@ class Fun extends Component {
                 <i>Hard-Boiled Wonderland and the End of the World</i> by Haruki
                 Murakami, and <i>Born a Crime</i> by Trevor Noah. I'm now
                 reading{" "}
-                <i>Just Kids</i> by
-                Patti Smith.
+                <i>The Great Bridge</i> by
+                David McCullough.
               </p>
               <h1 className="pt-1 header-text">Film</h1>
               <p className="pt-1 main-text">

@@ -29,7 +29,7 @@ class About extends Component {
                 Pennsylvania and a proud alumnus of Central High School (275). I
                 received a BSE degree in computer science and a minor in
                 mathematics from Penn. I am currently
-                an Associate Software Engineer at CapTech Ventures in New York City.
+                an Software Engineer at CapTech Ventures in New York City.
               </p>
               <h1 className="pt-3 header-text">What I Do</h1>
               <p className="pt-3 main-text">
