@@ -24,12 +24,9 @@ class About extends Component {
             <Col lg={true}>
               <h1 className="mt-5 header-text">A Little About Me</h1>
               <p className="pt-3 main-text">
-                Hello! My name is Aavo. I hail from Tartu, Estonia, but grew up
-                in Philly. I'm a (somewhat) recent graduate of the University of
-                Pennsylvania and a proud alumnus of Central High School (275). I
-                received a BSE degree in computer science and a minor in
-                mathematics from Penn. I am currently
-                an Software Engineer at CapTech Ventures in New York City.
+                Results-driven software engineer with a passion for developing innovative and scalable software applications that leave a positive mark on the world. Computer science graduate of the University of Pennsylvania with a deep knowledge of data structures and algorithms.
+                4+ years of experience working as a full-stack engineer with hands-on experience writing code and architecting cutting edge solutions for a variety of clients and use cases. Advocate of test-driven development, and clean, modular code. 
+                Currently a Senior Software Engineer at CapTech Consulting in New York City.
               </p>
               <h1 className="pt-3 header-text">What I Do</h1>
               <p className="pt-3 main-text">
