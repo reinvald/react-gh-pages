@@ -25,8 +25,8 @@ class About extends Component {
               <h1 className="mt-5 header-text">A Little About Me</h1>
               <p className="pt-3 main-text">
                 Results-driven software engineer with a passion for developing innovative and scalable software applications that leave a positive mark on the world. Computer science graduate of the University of Pennsylvania with a deep knowledge of data structures and algorithms.
-                4+ years of experience working as a full-stack engineer with hands-on experience writing code and architecting cutting edge solutions for a variety of clients and use cases. Advocate of test-driven development, and clean, modular code. 
-                Currently a Senior Software Engineer at CapTech Consulting in New York City.
+                4+ years of experience working as a full-stack engineer with hands-on experience writing code and architecting cutting edge solutions for a variety of clients and use cases. Advocate of test-driven development and clean, modular code. 
+                Currently a Senior Software Engineer at Capital One in New York City.
               </p>
               <h1 className="pt-3 header-text">What I Do</h1>
               <p className="pt-3 main-text">

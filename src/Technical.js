@@ -20,37 +20,31 @@ class Technical extends Component {
             <Col lg={true}>
               <h1 className="mt-5 header-text">Education</h1>
               <p className="pt-3 main-text">
-                I recently graduated with a BSE in computer science and a minor
+                In 2020 I graduated with a BSE in computer science and a minor
                 in mathematics from the University of Pennsylvania. Some of my
                 relevant coursework includes Algorithmic Game Theory, Computer
                 Architecture, Operating Systems, Data Structures and Algorithms,
                 Scalable and Cloud Computing, Databases and Information Systems,
                 Software Design, Discrete Mathematics, Number Theory, as well as
-                Automata, Computability, and Complexity. I also hold a BA degree
-                from the Central High School of Philadelphia.
+                Automata, Computability, and Complexity. I was recently accepted into
+                Georgia Tech for a Master's in Computer Science and am slated to start in 2025.
               </p>
               <h1 className="pt-3 header-text">Technical Skills</h1>
               <p className="pt-3 main-text">
                 I am most comfortable with Python, Java, JavaScript (React +
                 Node.js, HTML + CSS), LaTeX, SQL + NoSQL, Git, Scrum, and
                 Linux/OSX. I'm a beginner at Ruby (and Rails). I also have experience with C, OCaml, Selenium,
-                MongoDB, Android, AWS (EMR, DynamoDB), and QA/automated testing.
+                MongoDB, Android, AWS (EMR, DynamoDB), and QA/automated testing. Currently I am teaching myself
+                Golang by working through the cryptopals crypto challenges.
               </p>
 
               <h1 className="pt-3 header-text">Past, Present, Future</h1>
               <p className="pt-3 main-text">
-                I currently work as a software engineer at CapTech Ventures
-                My project work involves development across the Salesforce tech stack (Apex, LWC, etc.). I'm passionate about
-                leveraging cloud platforms to deliver digital business
-                transformation solutions that empower people and businesses across the world.
-                In 2019, I was a software development intern at Ellucian. I
-                spent this time working directly inbetween the devs and the QA
-                team to optimize the automated testing suite and overall
-                workflow. I recently worked on and presented
-                AMiAI, a senior design project studying the potential exploit of
-                language models (namely OpenAI's GPT2) to create
-                malicious product reviews. Additionally, I recently worked as a part-time
-                Rails programmer for Penn's Linguistic Data Consortium.
+                I currently work as a Senior Software Engineer at Capital One.
+                My project work involves building serverless cloud solutions using AWS (Lambda, Step Functions, etc.) that
+                are designed to gracefully handle high throughput/traffic. 
+                In between graduating college and joining Capital One, I working as a full stack engineer in the
+                tech consulting space, working for a variety of clients and leveraging a variety of tech stacks.
               </p>
               <p className="pt-3 main-text">
                 <i>Complete resume available upon request.</i>
